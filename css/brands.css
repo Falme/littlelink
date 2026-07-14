@@ -34,8 +34,8 @@
 /* Default */
 .button.button-default {
 	--button-text:#ffffff;
-	--button-background:#2457F5;
-	--button-border:1px solid #ffffff;
+	--button-background:#000000;
+	--button-border:1px solid #FFFFFF;
 }
 
 /* Amazon */
@@ -112,9 +112,9 @@
 
 /* Bluesky Alt */
 .button-bluesky-alt {
-	--button-text:#000000;
-	--button-background:#FFFFFF;
-	--button-border:1px solid #000000;
+	--button-text:#ffffff;
+	--button-background:#000000;
+	--button-border:1px solid #FFFFFF;
 }
 
 /* Buy Me a Coffee */
@@ -329,7 +329,10 @@
 /* LinkedIn */
 .button-linked {
 	--button-text:#ffffff;
-	--button-background:#2867b2;
+	--button-background:#000000;
+	--button-border:1px solid #FFFFFF;
+	/* --button-text:#ffffff; */
+	/* --button-background:#2867b2; */
 }
 
 /* Mailchimp */
