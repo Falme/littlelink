@@ -274,6 +274,13 @@
 	background-image:linear-gradient(-135deg,#1400c8,#b900b4,#f50000);
 }
 
+/* itch.io */
+.button-itchio {
+	--button-text:#ffffff;
+	--button-background:#000000;
+	--button-border:1px solid #ffffff;
+}
+
 /* Kick */
 .button-kick {
 	--button-text:#ffffff;
